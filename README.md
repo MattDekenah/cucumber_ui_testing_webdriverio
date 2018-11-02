@@ -1,5 +1,4 @@
-UI Testing
-====================
+# ßUI Testing
 
 This mini UI test example is built on top of [Cucumber Boilerplate](README-CB.md).
 
