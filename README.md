@@ -3,7 +3,7 @@ UI Testing
 
 This mini UI test example is built on top of [Cucumber Boilerplate](README-CB.md).
 
-It runs to check the selection of matching services from the venue service search page.
+It runs to check the selection of matching services from the venue service search page on Treatwell.
 
 See `src/features`, `src/steps` (excl. `templates`) and `src/page-objects`.
 
